@@ -1,0 +1,8 @@
+node_modules/
+mecab-ipadic-neologd/
+base-dictionary-hatena-keyword.json
+base-dictionary-mecab.json
+base-dictionary.json
+dictionary-hatena-keyword.json
+dictionary-mecab.json
+keywordlist_furigana_utf8.csv
